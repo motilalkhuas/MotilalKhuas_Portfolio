@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MotilalKhuas_Portfolio/static/css/main.a2d3b614.css",
-    "main.js": "/MotilalKhuas_Portfolio/static/js/main.e26cdbb7.js",
+    "main.css": "/MotilalKhuas_Portfolio/static/css/main.d2345a3c.css",
+    "main.js": "/MotilalKhuas_Portfolio/static/js/main.c438aa27.js",
     "static/js/787.28cb0dcd.chunk.js": "/MotilalKhuas_Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/mobile.png": "/MotilalKhuas_Portfolio/static/media/mobile.2fa1e8016ab06c179b74.png",
     "static/media/boy.svg": "/MotilalKhuas_Portfolio/static/media/boy.39c3284977ceb9176f1c35188042c62c.svg",
     "index.html": "/MotilalKhuas_Portfolio/index.html",
     "static/media/Triangle.svg": "/MotilalKhuas_Portfolio/static/media/Triangle.da41d9c559e1ebd1b135225aaf09a4b6.svg",
     "static/media/arrow.svg": "/MotilalKhuas_Portfolio/static/media/arrow.f73414eec78021878cc7d14ef4465c0a.svg",
-    "main.a2d3b614.css.map": "/MotilalKhuas_Portfolio/static/css/main.a2d3b614.css.map",
-    "main.e26cdbb7.js.map": "/MotilalKhuas_Portfolio/static/js/main.e26cdbb7.js.map",
+    "main.d2345a3c.css.map": "/MotilalKhuas_Portfolio/static/css/main.d2345a3c.css.map",
+    "main.c438aa27.js.map": "/MotilalKhuas_Portfolio/static/js/main.c438aa27.js.map",
     "787.28cb0dcd.chunk.js.map": "/MotilalKhuas_Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2d3b614.css",
-    "static/js/main.e26cdbb7.js"
+    "static/css/main.d2345a3c.css",
+    "static/js/main.c438aa27.js"
   ]
 }
