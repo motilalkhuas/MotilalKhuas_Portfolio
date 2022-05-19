@@ -1,0 +1,17 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url('./images/mobile.png');
+}
+.content .home{
+    /* z-index: -10; */
+}
+footer{
+    margin-top: auto;
+}
+@media only screen and (min-width: 768px) {
+    .content {
+      background-image: none;
+    }
+  }
